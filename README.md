@@ -30,3 +30,51 @@ Local Sana 600m/1600m diffusion models infer.
 
 
 ![04](https://github.com/user-attachments/assets/04389945-86bf-4c0e-8520-e149c4bc0ff5)
+
+
+5.ตั้งชื่อโมเดลโฟลเดอร์ด้วยตัวเอง | Name the model folder yourself
+
+
+![05](https://github.com/user-attachments/assets/dbf37c10-20bd-42c1-ac4e-9ed89d36efe5)
+
+
+6.กดEnterเพื่อดาวน์โหลดโมเดล | Press Enter to download the model.
+
+
+![06](https://github.com/user-attachments/assets/33b64f08-704c-4069-84be-5889cc9032a0)
+
+
+![07](https://github.com/user-attachments/assets/d76d72ce-6a54-4653-98f8-fc5d24426c09)
+
+
+7.เข้าไปตรวจสอบว่ามีโมเดลแล้วหรือยัง | Check to see if the model is available.
+
+
+![08](https://github.com/user-attachments/assets/07d17f55-d91f-4a21-9d66-1caafa37d637)
+
+
+![09](https://github.com/user-attachments/assets/a683e13b-c091-46de-8202-a4c35d4d5210)
+
+
+8.ดับเบิลคลิกไปที่ run.bat เพื่อเริ่มใช้งาน | Double click on run.bat to start it.
+
+
+![10](https://github.com/user-attachments/assets/d99b1edb-bb8f-4287-ae36-06ebc36ee443)
+
+
+9.รอให้webUI โหลดไลบรารี่ ครั้งแรกจะใช้เวลาพอสมควร ราวๆ 1-5 นาที อยู่ที่มสเปคของคอม | Wait for the webUI to load the library. The first time it will take quite some time, around 1-5 minutes, depending on your PC's specs.
+
+![11](https://github.com/user-attachments/assets/41d99d3e-2264-45ae-941a-506f03279eca)
+
+
+10.นำurlที่ได้ไปใส่ในเว็บเบราว์เซอร์ โดยค่าปกติจะเป็น http://127.0.0.1:7860 | Paste the URL into your web browser. The default value is http://127.0.0.1:7860
+
+
+![12](https://github.com/user-attachments/assets/5a3fcfc6-f876-41b8-8c6a-1d09247b1ebe)
+
+
+11.เริ่มใช้งาน | Get Started
+
+
+![13](https://github.com/user-attachments/assets/9a8d83ee-b3c2-4062-8aec-f3ce37c46103)
+
