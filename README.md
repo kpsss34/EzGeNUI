@@ -4,7 +4,11 @@
 
 Local Sana 600m/1600m diffusion models ai inference.
 
-![Screenshot 2025-06-22 104042](https://github.com/user-attachments/assets/ecf9b1ce-2de1-4787-9fee-d6d9ccfe3f75) ![Screenshot 2025-06-22 104000](https://github.com/user-attachments/assets/45c38fb8-4a50-4a62-832c-d9fb0f4b7d2b)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/user-attachments/assets/ecf9b1ce-2de1-4787-9fee-d6d9ccfe3f75" style="width: 30%;">
+  <img src="https://github.com/user-attachments/assets/45c38fb8-4a50-4a62-832c-d9fb0f4b7d2b" style="width: 30%;">
+</div>
+
 
 วิธีการใช้งาน | How to use
 
