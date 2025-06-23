@@ -27,7 +27,7 @@ Local Sana 600m/1600m diffusion models ai inference.
 ![02](https://github.com/user-attachments/assets/20d41ddb-0a21-40a6-803a-5a7682c4d784)
 
 
-4.ใส่ huggingface Repo เพื่อกำหนดการโหลด ตามตัวอย่างคือ kpsss34/SANA600.fp16_Realistic_SFW_V1 | Add huggingface Repo to set load, example is kpsss34/SANA600.fp16_Realistic_SFW_V1
+4.ใส่ huggingface Repo เพื่อกำหนดการโหลด ตามตัวอย่างคือ kpsss34/SANA600.fp16_Realistic_SFW_V1 Link=[https://huggingface.co/kpsss34]| Add huggingface Repo to set load, example is kpsss34/SANA600.fp16_Realistic_SFW_V1 Link=[https://huggingface.co/kpsss34]
 
 
 ![03](https://github.com/user-attachments/assets/7a7cf011-e962-44e6-b056-15588bd00539)
